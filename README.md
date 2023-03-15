@@ -1,4 +1,4 @@
-# Online-Payment-System
+# Online Payment Database System
 
 ## Objective:
 
@@ -58,7 +58,7 @@ Rating (on a scale of 1-5) and Feedback. Further we also try to include a Refund
 Process into this system which has features like Refund ID, Refund Amount,
 Refund Date, Reason of Refund associated with the Transaction ID.
 
-# Entity-Relationship (ER) Diagram
+## Entity-Relationship (ER) Diagram
 
 ![image](https://user-images.githubusercontent.com/70831607/225311504-252aa4f7-21b0-43d9-ab9b-6b757c721a92.png)
 
