@@ -60,8 +60,10 @@ Refund Date, Reason of Refund associated with the Transaction ID.
 
 ## Entity-Relationship (ER) Diagram
 
-![image](https://user-images.githubusercontent.com/70831607/225311504-252aa4f7-21b0-43d9-ab9b-6b757c721a92.png)
+![Entity_Relationship_Diagram(ERD)](https://github.com/Harsh62004/Online-Payment-System/assets/94214306/50664b1d-b07a-42ea-b51c-9cee3c8abc50)
 
+## Relational Schema
+![Relational_Schema](https://github.com/Harsh62004/Online-Payment-System/assets/94214306/7031c376-6127-4918-8570-87b62cd90493)
 
 # Contributers:
 
